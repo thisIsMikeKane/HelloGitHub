@@ -51,3 +51,5 @@ Hello on Tuesday August 28, 2012
 Hello on Wednesday August 29, 2012
 
 Hello on Thursday August 30, 2012
+
+Hello on Friday August 31, 2012
