@@ -93,3 +93,5 @@ Hello on Tuesday November  6, 2012
 Hello on Wednesday November  7, 2012
 
 Hello on Thursday November  8, 2012
+
+Hello on Friday November  9, 2012
