@@ -149,3 +149,5 @@ Hello on Tuesday February  5, 2013
 Hello on Wednesday February  6, 2013
 
 Hello on Thursday February  7, 2013
+
+Hello on Friday February  8, 2013
