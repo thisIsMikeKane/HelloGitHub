@@ -173,3 +173,5 @@ Hello on Tuesday March  5, 2013
 Hello on Wednesday March  6, 2013
 
 Hello on Thursday March  7, 2013
+
+Hello on Friday March  8, 2013
