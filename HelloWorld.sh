@@ -4,7 +4,7 @@
 
 # Specify first date to start, then convert to epoch time
 #  (Should be a Sunday)
-START='2012/07/01 12:00:00 -0400'
+START='2013/11/03 12:00:00 -0400'
 START=$(date --date "$START" +%s)
 
 # 1's specify which pixels should be filled to spell
