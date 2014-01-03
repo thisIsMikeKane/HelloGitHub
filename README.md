@@ -249,3 +249,5 @@ Hello on Tuesday December 31, 2013
 Hello on Wednesday January  1, 2014
 
 Hello on Thursday January  2, 2014
+
+Hello on Friday January  3, 2014
