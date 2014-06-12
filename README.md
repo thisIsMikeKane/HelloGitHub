@@ -345,3 +345,5 @@ Hello on Monday June  9, 2014
 Hello on Tuesday June 10, 2014
 
 Hello on Wednesday June 11, 2014
+
+Hello on Thursday June 12, 2014
